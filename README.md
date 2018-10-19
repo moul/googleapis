@@ -1,5 +1,7 @@
 # Google APIs
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/googleapis.svg)](https://www.guardrails.io)
+
 This repository contains the original interface definitions for a
 small (but growing) set of Google APIs built on a next-generation API
 serving stack. Reading the original interface definitions can provide
